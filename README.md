@@ -1,5 +1,5 @@
 # Paperboy-docs
-Documentations about ThePhilosophyPaperboy project
+Documentations about ThePhilosophyPaperboy 2.0 project. Check out the actual MVP version [here](https://thephilosophypaperboy.com/).
 
 
 ## Backend Idea
