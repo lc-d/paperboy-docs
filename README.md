@@ -1,10 +1,12 @@
-# Paperboy-docs
-Documentations about ThePhilosophyPaperboy 2.0 project. Check out the actual MVP version [here](https://thephilosophypaperboy.com/).
+# ThePhilosophyPaperboy 2.0 Docs
+Documentations about ThePhilosophyPaperboy 2.0 project.
 
+## Introduction
+ThePhilosophyPaperboy MVP version, is actually up and running [here](https://thephilosophypaperboy.com/), this is only an hacked WordPress that do the job. Data are messy and not scalable. But the service exist and it's appreciated by its users. So we want to make thinghs in the right way, any help will be appreciated.
 
-## Backend Idea
+## Backend 
 
-The backend is basically a RSS engine who collect data from RSS source. i.e.:
+The backend we want to build is basically a RSS engine who collect data from RSS source. i.e.:
 
 ![RSS schema](img/RSS-scheme.png)
 
@@ -25,4 +27,4 @@ And this can be an Admin panel example of RSS items
 
 ## Frontend
 
-Check for wireframe [here](https://github.com/lc-d/paperboy-docs/tree/main/prototype/wireframes)
+Check for wireframe of the new frontend [here](https://github.com/lc-d/paperboy-docs/tree/main/prototype/wireframes)
