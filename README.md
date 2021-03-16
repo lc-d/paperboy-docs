@@ -19,7 +19,6 @@ Documentations about ThePhilosophyPaperboy 2.0 project. Check out the actual MVP
 | Created at | `Date` | `false` | |
 
 ### `Articles`
-*Need UX/UI update*
 
 | Field | Type | Nullable |  Note |
 |:------|:-:|:-:|:--|
@@ -30,7 +29,7 @@ Documentations about ThePhilosophyPaperboy 2.0 project. Check out the actual MVP
 | Url | `String` | `false` |
 | Name| `String` | `false` | |
 | Authors | `String` | `true` | Sometime could be "creator", sometime "authors". We need schema|
-| Description | `String` | `true` |
+| Description | `String` | `true` | _Not displayed into frontend_|
 | Publication Date | `Date` | `false` | Date should be formatted, we'll retrieve differents format |
 
 
@@ -48,7 +47,6 @@ Documentations about ThePhilosophyPaperboy 2.0 project. Check out the actual MVP
 | Articles | `Array` | `true` |  Array of key. Users favorites articles |
 
 ### `Timelines`
-*Need UX/UI update*
 
 | Field | Type | Nullable |  Note |
 |:------|:-:|:-:|:--|
