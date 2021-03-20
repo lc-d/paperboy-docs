@@ -11,6 +11,7 @@ Documentations about ThePhilosophyPaperboy 2.0 project. Check out the actual MVP
 | Id | `Integer` | `false` | |
 | Url | `String` | `false` | |
 | Name| `String` | `false` | |
+| Discipline| `String` | `false` | value is allways `philosophy` |
 | Publisher | `String` | `true` | Could be the url domain's name |
 | Active | `Boolean` | ... | if `false`, engine should not call the feed |
 | Last update | `Date` | `true ` | Last RSS call date |
